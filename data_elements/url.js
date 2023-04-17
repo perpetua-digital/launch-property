@@ -1,2 +1,2 @@
-// data element ID here
+// DE123456789... DE987654321...
 return `${window.location.protocol}//${window.location.host}${window.location.pathname}`
